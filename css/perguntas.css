@@ -42,8 +42,7 @@ img {
 }
 
 .imagem-duvidas {
-  max-width: 600px;
-  min-width: 400px;
+  max-width: 480px;
   border-radius: 10px;
 }
 
@@ -59,9 +58,10 @@ img {
     background-color: #f3f3f3f3;
   }
   .imagem-duvidas {
-    max-width: 600px;
+    max-width: 480px;
     border-radius: 10px;
   }
+
   perguntas-titulo {
     font-size: 1.7rem;
     font-family: "Montserrat", sans-serif;
@@ -90,9 +90,5 @@ img {
   .perguntas-img {
     max-width: 100%;
     object-fit: cover;
-  }
-
-  .imagem-duvidas {
-    max-width: 100%;
   }
 }
