@@ -49,7 +49,7 @@ img {
 
 /* PARTE MOBILE */
 
-@media screen and (max-width: 768px) {
+@media (max-width: 600px) {
   .perguntas {
     display: flex;
     flex-direction: column;
